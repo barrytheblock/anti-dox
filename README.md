@@ -18,7 +18,7 @@ If you forget your password, simply click **Forgot Passcode**. You'l be ask to g
 
 Password protection is to make sure that it is you, but also prevent accidentally opening the menu and exposing your private information.
 
-# Customise menu open keybind
+# Customize menu open keybind
 Edit the value of **SHORTCUT_KEY** to change the opening keybind to your own. Below are some examples.
 
 | Key | Value |
